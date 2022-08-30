@@ -1,6 +1,9 @@
 Graph-Based Image Segmentation
 ==============================
 
+Original Repo : https://github.com/sirius-mhlee/graph-based-image-segmentation#usage
+
+
 Python implementation of the algorithm described in the paper Efficient Graph-Based Image Segmentation.
 http://cs.brown.edu/~pff/segment/
 
